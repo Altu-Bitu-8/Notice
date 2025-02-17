@@ -1,6 +1,6 @@
 # 정렬_맵_셋
 
-[메인으로 돌아가기](https://github.com/Altu-Bitu-6/Notice)
+[메인으로 돌아가기](https://github.com/Altu-Bitu-8/Notice)
 
 ## 💻 튜터링
 
@@ -28,16 +28,16 @@
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
-|  [1431](https://www.acmicpc.net/problem/1431)  |  [시리얼 번호](https://www.acmicpc.net/problem/1431)  | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> | [바로가기]() | 정렬 |
-|  [11478](https://www.acmicpc.net/problem/11478)  |  [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)  | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> | [바로가기]()  | 자료 구조, 해시를 사용한 집합과 맵, 문자열, 트리를 사용한 집합과 맵 |
-|  [19636](https://www.acmicpc.net/problem/19636)  |  [요요 시뮬레이션](https://www.acmicpc.net/problem/19636)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  [바로가기]()  | 구현 |
+|  [1431](https://www.acmicpc.net/problem/1431)  |  [시리얼 번호](https://www.acmicpc.net/problem/1431)  | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> | []() | 정렬 |
+|  [11478](https://www.acmicpc.net/problem/11478)  |  [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)  | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> | []()  | 자료 구조, 해시를 사용한 집합과 맵, 문자열, 트리를 사용한 집합과 맵 |
+|  [19636](https://www.acmicpc.net/problem/19636)  |  [요요 시뮬레이션](https://www.acmicpc.net/problem/19636)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  []()  | 구현 |
 
 ### 도전
 
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 |  :-:  |  :-:  |  :-:  |  :-:  |  :-:  |
-|  [1946](https://www.acmicpc.net/problem/1946)  |  [신입 사원](https://www.acmicpc.net/problem/1946)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  [바로가기]() | 그리디 알고리즘, 정렬 |
-|  [9375](https://www.acmicpc.net/problem/9375)  |  [패션왕 신해빈](https://www.acmicpc.net/problem/9375)  | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> | [바로가기]() | 조합론, 자료 구조, 해시를 사용한 집합과 맵, 수학 |
+|  [1946](https://www.acmicpc.net/problem/1946)  |  [신입 사원](https://www.acmicpc.net/problem/1946)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  []() | 그리디 알고리즘, 정렬 |
+|  [9375](https://www.acmicpc.net/problem/9375)  |  [패션왕 신해빈](https://www.acmicpc.net/problem/9375)  | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/> | []() | 조합론, 자료 구조, 해시를 사용한 집합과 맵, 수학 |
 
 ---
 
