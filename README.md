@@ -20,7 +20,7 @@
 | 2025.02.10 | OT | [@ruruisryu](https://github.com/ruruisryu) | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/00_OT/00_OT.pdf) | - | 녹화 영상 제공 |
 | 2025.02.17 | 정렬, 맵, 셋 | [@chae-jpg](https://github.com/chae-jpg) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/01_%EC%A0%95%EB%A0%AC_%EB%A7%B5_%EC%85%8B/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/01_%EC%A0%95%EB%A0%AC_%EB%A7%B5_%EC%85%8B/README.md) | 비대면 |
 | 2025.02.24 | 스택, 큐, 덱 | [@ruruisryu](https://github.com/ruruisryu) |[바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/02_%EC%8A%A4%ED%83%9D_%ED%81%90_%EB%8D%B1/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/02_%EC%8A%A4%ED%83%9D_%ED%81%90_%EB%8D%B1/README.md) | 비대면 |
-| 2025.03.03 | 정수론 | [@sforseohn](https://github.com/sforseohn) | | | 비대면 | 
+| 2025.03.03 | 정수론 | [@sforseohn](https://github.com/sforseohn) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/03_%EC%A0%95%EC%88%98%EB%A1%A0/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/03_%EC%A0%95%EC%88%98%EB%A1%A0/README.md) | 비대면 | 
 | 2025.03.10 | 브루트 포스 | [@zzangss](https://github.com/zzangss) | | | |
 | 2025.03.17 | 우선순위 큐 | [@ZERO-black](https://github.com/ZERO-black) | | | |
 | 2025.03.24 | 그리디 알고리즘 | [@s0ye0ve](https://github.com/s0ye0ve) | | | |
