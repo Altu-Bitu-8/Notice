@@ -5,12 +5,10 @@
 using namespace std;
 
 //괄호가 균형을 이루었는지 여부 반환
-bool isBalanced(string input) { 
+bool isBalanced(const string& input) { 
     stack<char> s; //괄호 저장하는 스택
 
-    for (int i = 0; i < input.length(); i++) {
-        char ch = input[i];
-
+    for (char ch : input) {
         switch (ch) {
             case '(': case '[': //여는 괄호는 무조건 push
                 s.push(ch);
@@ -50,9 +48,8 @@ int main() {
 
     string input;
 
-    while (true) {
-        //입력
-        getline(cin, input);
+    // 입력
+    while (getline(cin, input)) {
 
         if (input == ".") {
             break;
@@ -66,6 +63,5 @@ int main() {
             cout << "no\n";
         }
     }
-
     return 0;
 }

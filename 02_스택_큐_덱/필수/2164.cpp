@@ -32,9 +32,8 @@ int main(){
         q.pop();
 
         // 제일 위의 카드를 제일 아래로 옮기기
-        int front = q.front();
+        q.push(q.front());
         q.pop();
-        q.push(front);
     }
 
     // 출력
