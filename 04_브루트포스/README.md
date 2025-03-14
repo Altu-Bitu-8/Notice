@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: |:------------------------------------------------------------------------------------------------------------------:| :-: |
-| [1063](https://www.acmicpc.net/problem/1063) | [킹](https://www.acmicpc.net/problem/1063) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |  | 구현, 시뮬레이션 |
-| [1476](https://www.acmicpc.net/problem/1476) | [날짜 계산](https://www.acmicpc.net/problem/1476) | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/> |  | 수학, 브루트포스, 정수론 |
-| [11723](https://www.acmicpc.net/problem/11723) | [집합](https://www.acmicpc.net/problem/11723) | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/> |  | 비트마스킹 |
+| [1063](https://www.acmicpc.net/problem/1063) | [킹](https://www.acmicpc.net/problem/1063) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%ED%95%84%EC%88%98/1063.cpp) | 구현, 시뮬레이션 |
+| [1476](https://www.acmicpc.net/problem/1476) | [날짜 계산](https://www.acmicpc.net/problem/1476) | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%ED%95%84%EC%88%98/1476.cpp) | 수학, 브루트포스, 정수론 |
+| [11723](https://www.acmicpc.net/problem/11723) | [집합](https://www.acmicpc.net/problem/11723) | <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%ED%95%84%EC%88%98/11723.cpp) | 비트마스킹 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: |:------------------------------------------------------------------------------------------------------------------:| :-: |
-| [14620](https://www.acmicpc.net/problem/14620) | [꽃길](https://www.acmicpc.net/problem/14620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  | 브루트포스 |
-| [1052](https://www.acmicpc.net/problem/1052) | [물병](https://www.acmicpc.net/problem/1052) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 비트마스킹 |
+| [14620](https://www.acmicpc.net/problem/14620) | [꽃길](https://www.acmicpc.net/problem/14620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%8F%84%EC%A0%84/14620.cpp) | 브루트포스 |
+| [1052](https://www.acmicpc.net/problem/1052) | [물병](https://www.acmicpc.net/problem/1052) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EB%8F%84%EC%A0%84/1052.cpp) | 비트마스킹 |
 ---
  ### 힌트
 <details><summary>킹</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;킹과 돌의 움직임이 모두 판 안에서 이뤄질 때만 다음으로 움직일 수 있는 점을 유의해주세요!</div></details>
