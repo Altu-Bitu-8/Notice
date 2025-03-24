@@ -23,7 +23,7 @@
 | 2025.03.03 | 정수론 | [@sforseohn](https://github.com/sforseohn) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/03_%EC%A0%95%EC%88%98%EB%A1%A0/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/03_%EC%A0%95%EC%88%98%EB%A1%A0/README.md) | 비대면 | 
 | 2025.03.10 | 브루트 포스 | [@zzangss](https://github.com/zzangss) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/04_%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/README.md) | |
 | 2025.03.17 | 우선순위 큐 | [@ZERO-black](https://github.com/ZERO-black) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/05_%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84_%ED%81%90/README.md) | |
-| 2025.03.24 | 그리디 알고리즘 | [@s0ye0ve](https://github.com/s0ye0ve) | | | |
+| 2025.03.24 | 그리디 알고리즘 | [@s0ye0ve](https://github.com/s0ye0ve) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기]https://github.com/Altu-Bitu-8/Notice/tree/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/README.md) | |
 | 2025.03.31 | 동적 계획법  | [@sforseohn](https://github.com/sforseohn) | | | |
 | 2025.04.07 | DFS & BFS  | [@sua005](https://github.com/sua005) | | | |
 | 2025.04.14 | 백트래킹   | [@ZERO-black](https://github.com/ZERO-black) | | | |
