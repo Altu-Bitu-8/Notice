@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [15662](https://www.acmicpc.net/problem/15662) | [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 구현, 시뮬레이션 |
-| [19941](https://www.acmicpc.net/problem/19941) | [햄버거 분배](https://www.acmicpc.net/problem/19941) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 그리디 |
-| [17451](https://www.acmicpc.net/problem/17451) | [평행 우주](https://www.acmicpc.net/problem/17451) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 그리디, 수학 |
+| [15662](https://www.acmicpc.net/problem/15662) | [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%84%EC%88%98/15662.cpp) | 구현, 시뮬레이션 |
+| [19941](https://www.acmicpc.net/problem/19941) | [햄버거 분배](https://www.acmicpc.net/problem/19941) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%84%EC%88%98/19941.cpp) | 그리디 |
+| [17451](https://www.acmicpc.net/problem/17451) | [평행 우주](https://www.acmicpc.net/problem/17451) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%84%EC%88%98/17451.cpp) | 그리디, 수학 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 그리디, 수학 |
-| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 |  | 그리디 |
+| [19539](https://www.acmicpc.net/problem/19539) | [사과나무](https://www.acmicpc.net/problem/19539) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8F%84%EC%A0%84/19539.cpp) | 그리디, 수학 |
+| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Lv.2 | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/06_%EA%B7%B8%EB%A6%AC%EB%94%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8F%84%EC%A0%84/%ED%81%B0_%EC%88%98_%EB%A7%8C%EB%93%A4%EA%B8%B0.cpp) | 그리디 |
 ---
 ### 힌트
 <details><summary>톱니바퀴 (2)</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;톱니바퀴가 돌아가는 것에는 순서가 있는 게 아닙니다! (한 톱니바퀴가 돌아가고 이후 다른 톱니바퀴의 극을 보지 않는다는 뜻) 맞닿은 톱니의 극은 어떻게 표현할 수 있을까요? 이 점에 유의해서 문제를 풀어보세요.</div></details>
