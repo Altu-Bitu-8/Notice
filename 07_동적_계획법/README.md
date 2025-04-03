@@ -4,7 +4,7 @@
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2579](https://www.acmicpc.net/problem/2579) | [계단 오르기](hhttps://www.acmicpc.net/problem/2579) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/07_동적_계획법/라이브코딩/2579.cpp) | 다이나믹 프로그래밍 |
+| [2579](https://www.acmicpc.net/problem/2579) | [계단 오르기](https://www.acmicpc.net/problem/2579) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/07_동적_계획법/라이브코딩/2579.cpp) | 다이나믹 프로그래밍 |
 | [14501](https://www.acmicpc.net/problem/14501) | [퇴사](https://www.acmicpc.net/problem/14501) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/07_동적_계획법/라이브코딩/14501.cpp) | 다이나믹 프로그래밍, 브루트포스 알고리즘 |
 | [14002](https://www.acmicpc.net/problem/14002) | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/07_동적_계획법/라이브코딩/14002.cpp) | 다이나믹 프로그래밍 |
 ## ✏️ 과제 
