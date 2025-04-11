@@ -15,13 +15,13 @@
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
 | [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  | 구현, 브루트포스 |
-| [2644](https://www.acmicpc.net/problem/2644) | [촌수 계산](https://www.acmicpc.net/problem/2644) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  |  |
-| [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  |  |
+| [2644](https://www.acmicpc.net/problem/2644) | [촌수 계산](https://www.acmicpc.net/problem/2644) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  | DFS, BFS |
+| [2606](https://www.acmicpc.net/problem/2606) | [바이러스](https://www.acmicpc.net/problem/2606) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | DFS, BFS |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [1068](https://www.acmicpc.net/problem/1068) | [트리](https://www.acmicpc.net/problem/1068) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  |  |
-| [10026](https://www.acmicpc.net/problem/10026) | [적록색약](https://www.acmicpc.net/problem/10026) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  |  |
+| [1068](https://www.acmicpc.net/problem/1068) | [트리](https://www.acmicpc.net/problem/1068) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 트리, DFS |
+| [10026](https://www.acmicpc.net/problem/10026) | [적록색약](https://www.acmicpc.net/problem/10026) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | DFS, BFS |
 ---
 ### 힌트
 <details><summary>오목</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;여섯 알이 연속적으로 놓이는 경우는 제외해야 해요. 검사를 시작할 기준점에서부터 어떤 방향으로 검사를 진행해야 할까요? 연속적으로 놓인 다섯 알 중 어느 위치의 알부터 검사가 시작되어야 할까요?</div></details>
