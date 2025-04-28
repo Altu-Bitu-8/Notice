@@ -4,9 +4,9 @@
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [15649](https://www.acmicpc.net/problem/15649) | [N과 M (1)](https://www.acmicpc.net/problem/15649) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기]() | 백트래킹 |
-| [2529](https://www.acmicpc.net/problem/2529) | [부등호](https://www.acmicpc.net/problem/2529) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기]() | 백트래킹, 브루트포스 알고리즘 |
-| [9663](https://www.acmicpc.net/problem/9663) | [N-Queen](https://www.acmicpc.net/problem/9663) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기]() | 백트래킹, 브루트포스 알고리즘 |
+| [15649](https://www.acmicpc.net/problem/15649) | [N과 M (1)](https://www.acmicpc.net/problem/15649) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/15649.cpp) | 백트래킹 |
+| [2529](https://www.acmicpc.net/problem/2529) | [부등호](https://www.acmicpc.net/problem/2529) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2529.cpp) | 백트래킹, 브루트포스 알고리즘 |
+| [9663](https://www.acmicpc.net/problem/9663) | [N-Queen](https://www.acmicpc.net/problem/9663) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [v1 바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/9663.cpp) <br> [v2 바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/9663_v2.cpp) | 백트래킹, 브루트포스 알고리즘 |
 ## ✏️ 과제
 ### 마감기한
 ~ 5 / 2 (금) 18:59 - 과제 제출 </br>
