@@ -14,14 +14,14 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [14888](https://www.acmicpc.net/problem/14888) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |  | 백트래킹, 브루트포스 알고리즘 |
-| [10971](https://www.acmicpc.net/problem/10971) | [외판원 순회 2](https://www.acmicpc.net/problem/10971) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |  | 백트래킹 |
-| [20055](https://www.acmicpc.net/problem/20055) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 구현, 시뮬레이션 |
+| [14888](https://www.acmicpc.net/problem/14888) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%ED%95%84%EC%88%98/14888.cpp) | 백트래킹, 브루트포스 알고리즘 |
+| [10971](https://www.acmicpc.net/problem/10971) | [외판원 순회 2](https://www.acmicpc.net/problem/10971) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%ED%95%84%EC%88%98/10971.cpp) | 백트래킹 |
+| [20055](https://www.acmicpc.net/problem/20055) | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%ED%95%84%EC%88%98/20055.cpp) | 구현, 시뮬레이션 |
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  | 백트래킹 |
-| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Lv.2 |  | 백트래킹 |
+| [2580](https://www.acmicpc.net/problem/2580) | [스도쿠](https://www.acmicpc.net/problem/2580) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%8F%84%EC%A0%84/2580.cpp) | 백트래킹 |
+| [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) | Lv.2 | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%8F%84%EC%A0%84/p_42839.cpp) | 백트래킹 |
 ---
 ### 힌트
 <details><summary>연산자 끼워넣기</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;이 문제에서 필요한 체크 배열은 무엇일까요? 문제에 주어진 조건을 살펴보아요.</div></details>
