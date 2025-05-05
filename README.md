@@ -27,7 +27,7 @@
 | 2025.03.31 | 동적 계획법  | [@sforseohn](https://github.com/sforseohn) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/07_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) |[바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/07_%EB%8F%99%EC%A0%81_%EA%B3%84%ED%9A%8D%EB%B2%95/README.md) | |
 | 2025.04.07 | DFS & BFS  | [@sua005](https://github.com/sua005) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/08_DFS_BFS/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/08_DFS_BFS/README.md) | |
 | 2025.04.14 | 백트래킹   | [@ZERO-black](https://github.com/ZERO-black) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/09_%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/README.md) | |
-| 2025.05.05 | 이분 탐색  | [@s0ye0ve](https://github.com/s0ye0ve) | | | |
+| 2025.05.05 | 이분 탐색  | [@s0ye0ve](https://github.com/s0ye0ve) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/10_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/10_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/README.md) | |
 | 2025.05.12 | 투 포인터  | [@sua005](https://github.com/sua005) | | | |
 | 2025.05.19 | 트리 | [@zzangss](https://github.com/zzangss) | | | |
 | 2025.05.26 | 최단 경로  | [@chae-jpg](https://github.com/chae-jpg) | | | |
