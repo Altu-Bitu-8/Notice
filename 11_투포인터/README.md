@@ -4,9 +4,9 @@
 ### 라이브 코딩
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [2470](https://www.acmicpc.net/problem/2470) | [두 용액](https://www.acmicpc.net/problem/2470) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |  | 이분 탐색, 정렬, 두 포인터 |
-| [11659](https://www.acmicpc.net/problem/11659) | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 누적 합 |
-| [21921](https://www.acmicpc.net/problem/21921) | [블로그](https://www.acmicpc.net/problem/21921) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |  | 누적 합, 슬라이딩 윈도우 |
+| [2470](https://www.acmicpc.net/problem/2470) | [두 용액](https://www.acmicpc.net/problem/2470) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |[바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/11_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/2470.cpp) | 이분 탐색, 정렬, 두 포인터 |
+| [11659](https://www.acmicpc.net/problem/11659) | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/11_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/11659.cpp) | 누적 합 |
+| [21921](https://www.acmicpc.net/problem/21921) | [블로그](https://www.acmicpc.net/problem/21921) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/11_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9/21921.cpp) | 누적 합, 슬라이딩 윈도우 |
 ## ✏️ 과제 
 ### 마감기한
 ~ 5 / 16 (금) 18:59 - 과제 제출 </br>
