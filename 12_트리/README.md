@@ -25,7 +25,7 @@
 ---
  ### 힌트
  <details><summary>뱀</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;힌트 업로드 전입니다.</div></details>
-<details><summary>노드사이의 거리</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;힌트 업로드 전입니다.</div></details>
+<details><summary>노드사이의 거리</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;트리에서는 두 노드 사이에 오직 하나의 경로만 존재합니다!</div></details>
 <details><summary>이진 검색 트리</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;전위 순회한 결과를 루트와 왼쪽 오른쪽으로 나눠보고 후위 순회의 순서를 떠올려보세요!</div></details>
 <details><summary>트리의 지름</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;지름을 이루는 노드의 특징은 무엇일까요?</div></details>
 <details><summary>Y</summary><div markdown="1">&nbsp;&nbsp;&nbsp;&nbsp;사용할 수 있는 정점의 종류를 고려해서 트리의 모양을 추측해보세요! 어떤 정점을 기준으로 생각하면 될까요? 또 N이 생각보다 큰 것 같아요!</div></details>
