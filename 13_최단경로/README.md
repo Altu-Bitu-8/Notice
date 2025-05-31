@@ -20,15 +20,15 @@
 ### 필수
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  | 구현, 시뮬레이션 |
-| [4485](https://www.acmicpc.net/problem/4485) | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  | 다익스트라 |
-| [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |  | 플로이드-워셜 |
+| [15685](https://www.acmicpc.net/problem/15685) | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/13_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%ED%95%84%EC%88%98/15685.cpp) | 구현, 시뮬레이션 |
+| [4485](https://www.acmicpc.net/problem/4485) | [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/13_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%ED%95%84%EC%88%98/4485.cpp) | 다익스트라 |
+| [2458](https://www.acmicpc.net/problem/2458) | [키 순서](https://www.acmicpc.net/problem/2458) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/13_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%ED%95%84%EC%88%98/2458.cpp) | 플로이드-워셜 |
 
 ### 도전
 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 분류 |
 | :-: | :-: | :-: | :-: | :-: |
-| [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | **Lv.3** |  | 플로이드-워셜 |
-| [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  | 벨만-포드 |
+| [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | **Lv.3** | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/13_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EB%8F%84%EC%A0%84/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C.cpp) | 플로이드-워셜 |
+| [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/13_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EB%8F%84%EC%A0%84/1865.cpp) | 벨만-포드 |
 ---
 
 ### 힌트
