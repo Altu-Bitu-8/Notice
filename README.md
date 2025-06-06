@@ -31,9 +31,9 @@
 | 2025.05.12 | 투 포인터  | [@sua005](https://github.com/sua005) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/11_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/11_%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0/README.md) | |
 | 2025.05.19 | 트리 | [@zzangss](https://github.com/zzangss) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/12_%ED%8A%B8%EB%A6%AC/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/12_%ED%8A%B8%EB%A6%AC/README.md) | |
 | 2025.05.26 | 최단 경로  | [@chae-jpg](https://github.com/chae-jpg) | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/13_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | [바로가기](https://github.com/Altu-Bitu-8/Notice/blob/main/13_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C/README.md) | |
-| 2025.06.02 | 유니온파인드 | | | - | 녹화 강의 제공 |
-| 2025.06.02 | 최소신장트리 | | | - | 녹화 강의 제공 | 
-| 2025.06.02 | 위상 정렬 | | | - | 녹화 강의 제공 |
+| 2025.06.02 | 유니온파인드 | - | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/14_%EC%9C%A0%EB%8B%88%EC%98%A8%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | - | 녹화 강의 제공 |
+| 2025.06.02 | 최소신장트리 | - | [바로가기](https://github.com/Altu-Bitu-8/Notice/tree/main/15_%EC%B5%9C%EC%86%8C%EC%8B%A0%EC%9E%A5%ED%8A%B8%EB%A6%AC/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | - | 녹화 강의 제공 | 
+| 2025.06.02 | 위상 정렬 | - | [바로가기](http://github.com/Altu-Bitu-8/Notice/tree/main/16_%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C) | - | 녹화 강의 제공 |
 
 ---
 
